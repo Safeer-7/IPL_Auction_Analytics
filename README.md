@@ -18,7 +18,7 @@ The Coach disagrees:
 > “Cricket is 40% physical and 60% mental.  
 > Bowler B has the killer instinct — he turns dot-ball pressure into wickets.”
 
-Your mission: **prove it using data**.
+My mission: **prove it using data**.
 
 ---
 
